@@ -1,7 +1,8 @@
 {
   "name": "Testing PWA",
   "short_name": "PWA Test",
-  "start_url": "/dzulkarnain761.github.io/solat-guide/",
+  "id": "/solat-guide/",
+  "start_url": "/solat-guide/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
